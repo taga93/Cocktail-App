@@ -1,3 +1,5 @@
+from abc import ABC, abstractmethod
+
 class Employee(ABC): #abstract class for creating employees
 
     @abstractmethod
