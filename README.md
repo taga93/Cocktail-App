@@ -15,7 +15,7 @@ Functions allow to see:
 -to add new cocktail to bar menu, 
 -to delete cocktail for bar manu, 
 -to see what cocktails can you make with specific drinks, 
--to see what ingredients you need to buy so that you can make specific cocktail.  
+-to see what ingredients you need to buy so that you can make all cocktails.  
 
 Also to se information about bartenders such as: 
 
